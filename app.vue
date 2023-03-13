@@ -1,3 +1,3 @@
 <template>
-  <ADButton :txt="'Test Button'" />
+  <FIeldButton :txt="'Test Button'" />
 </template>
